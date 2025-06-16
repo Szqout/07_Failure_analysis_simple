@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "Failure Analysis Simple"
+version = "0.1.0"
+description = "An example Python project of analysis for failure that demostrates how to analyze data for failure actuator in a modern factory. This is demo of simple usage. Using Python and basic statistical tools, the project calculates reliability metrics like **Mean Time Between Failures (MTBF)** and **failure rate**, and fits a **Weibull distribution** to better understand failure behavior."
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.12.1"
+pandas = "^2.0"
+numpy = "^1.24"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
