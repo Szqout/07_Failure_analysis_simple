@@ -67,7 +67,7 @@ This mini-project demonstrates how to analyze failure data for a actuator in an 
 
 - `hydraulic_pump_failures.csv`: Sample dataset
 - `analysis_Notebook.ipynb` : Jupyter Notebook as the analysis documentation and develop code results
-- `analysis.py`: Python script for failure analysis
+- `04_scripts/analysis.py`: Python script for failure analysis and automates task
 - `FMEA_Template_Actuator.xlsx`: Excel sheet with FMEA summary
 - `README.md`: This documentation
 
