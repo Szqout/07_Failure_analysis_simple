@@ -12,6 +12,7 @@ This mini-project demonstrates how to analyze failure data for a actuator in an 
 - Calculate key reliability metrics (MTBF, failure rate).
 - Visualize failure distributions and fit a Weibull curve.
 - Identify failure trends that could improve maintenance decisions.
+- In this small project we ignore data cleaning, it will be added in 
 
 ---
 
@@ -74,7 +75,7 @@ This mini-project demonstrates how to analyze failure data for a actuator in an 
 ---
 
 ## 📌 Future Improvements
-
+- Data cleaning
 - Integrate system for another types of actuator (size, purposes)
 - Compare analysis with few different assembly machine ( various machine manufacturers )
 - Integrate or extend real-time analysis of sensor data from other device (e.g., pressure, temperature) for predictive analytics. (create new one project?)
