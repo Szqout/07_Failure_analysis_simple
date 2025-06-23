@@ -2,7 +2,7 @@
 
 ## ✈️ Project Overview
 
-This mini-project demonstrates how to analyze failure data for a actuator in an modern factory. Using Python and basic statistical tools, the project calculates reliability metrics like **Mean Time Between Failures (MTBF)** and **failure rate**, and fits a **Weibull distribution** to better understand failure behavior.
+This mini-project demonstrates how to analyze failure data for a actuator in an modern factory. Using Python and basic statistical tools, the project calculates reliability metrics like **Mean Time Between Failures (MTBF)** and **failure rate**, and fits a **Weibull distribution** to better understand failure behavior. The project is only training of my personal developing skill.
 
 ---
 
