@@ -43,14 +43,14 @@ This mini-project demonstrates how to analyze failure data for a actuator in an 
   - **β (shape)** parameter: tells us if failures are random, early, or wear-out.
   - **η (scale)** parameter: represents the characteristic life.
 
-### 5. **FMEA-style Summary (Optional)**
-- An FMEA table is created to describe potential failure modes, their effects, and risk levels using RPN (Risk Priority Number).
+### 5. **FMEA-style Summary
+- Soon
 
 ---
 
 ## 📊 Sample Output
 
-- MTBF: `e.g., 492.5 hours`
+- MTBF: `e.g., 490.5 hours`
 - Failure Rate: `e.g., 0.00203 failures/hour`
 - Weibull β: `> 1 → wear-out failures detected`
 - Histogram and fitted Weibull curve for failure data
@@ -59,7 +59,7 @@ This mini-project demonstrates how to analyze failure data for a actuator in an 
 
 ## ✅ Conclusions
 
-- 
+- Soon
 
 ---
 
@@ -86,5 +86,5 @@ This mini-project demonstrates how to analyze failure data for a actuator in an 
 
 ## 📧 Contact
 
-For questions or collaborations, feel free to reach out via GitHub or [szqzaczek@outlook.com].
+For questions or collaborations, feel free to reach out via GitHub.
 
