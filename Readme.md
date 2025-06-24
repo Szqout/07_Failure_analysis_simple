@@ -79,7 +79,7 @@ This mini-project demonstrates how to analyze failure data for a actuator in an 
 - Compare analysis with few different assembly machine ( various machine manufacturers )
 - Integrate or extend real-time analysis of sensor data from other device (e.g., pressure, temperature) for predictive analytics. (create new one project?)
 - Extend the project to a full fleet and track MTBUR (Mean Time Between Unscheduled Removals).
-- Visualize time-based trends for different aircraft types.
+- Visualize time-based trends by different plots.
 
 
 ---
